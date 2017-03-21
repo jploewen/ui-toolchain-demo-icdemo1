@@ -104,7 +104,7 @@ function orderItem(itemID){
 	</div>
 	<div id="loading"><br>Loading...</div>
 	<a href="./autoLoadTest.html">Catalog Load Tester</a>
-	<!-- <img src="http://hd-wall-papers.com/images/wallpapers/amazing-hd-wallpapers-download/amazing-hd-wallpapers-download-3.jpg" height="100%" width="100%" alt="Oops"> -->
+	<img src="http://hd-wall-papers.com/images/wallpapers/amazing-hd-wallpapers-download/amazing-hd-wallpapers-download-3.jpg" height="100%" width="100%" alt="Oops">a
 	
 </body>
 </html>
